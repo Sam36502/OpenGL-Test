@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.tsx": "xml",
+		"sdl_opengl.h": "c",
+		"gl.h": "c"
+	},
+	"makefile.configureOnOpen": false
+}
